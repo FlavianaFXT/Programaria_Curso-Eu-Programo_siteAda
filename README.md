@@ -10,7 +10,7 @@ INDICE
 - [FUNCIONALIDADES IMPLEMENTADAS](#Funcionalidades-Implementadas)
 - [IMPLEMENTAÇÕES FUTURAS](#Implementações-Futuras)
 - [COMO RODAR O PROJETO](#Como-Rodar-O-Projeto)
-- [CONFIRA O RESULTADO ](#Confira-O-Resultado)
+- [CONFIRA O RESULTADO AQUI](#Confira-O-Resultado-Aqui)
 
 
 # APRESENTAÇÃO
@@ -55,7 +55,8 @@ O projeto é constituído de 1 página simples, que trás:
 
 
 
-----------------INSERIR ------------
+![image](https://github.com/user-attachments/assets/815a5c3b-49c2-4d94-b786-1c9a51b73ac3)
+
 
 
 
